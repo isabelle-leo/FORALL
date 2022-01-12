@@ -1,0 +1,16 @@
+Drug Type	Number of Drugs
+Kinase inhibitor	255
+Differentiating epigenetic modifier	74
+Conv. Chemotherapy	54
+Other	35
+Apoptotic modulator	23
+Hormone therapy	22
+Immunomodulatory	18
+Metabolic modifier	18
+Protease/proteasome inhibitor	7
+HSP inhibitor	6
+Rapalog	5
+Hedgehog inhibitor	5
+Kinesin inhibitor	4
+NSAID	1
+Conv. Chemotherapy combo	1
