@@ -3,7 +3,7 @@ library(ComplexHeatmap)
 # Set outputfolder
 outputFolder <- file.path("figures", "output", "figure_01")
 
-# create maijor output folder, if it doesn't exist
+# create major output folder, if it doesn't exist
 if (!is.null(outputFolder) && !dir.exists(outputFolder)) dir.create(outputFolder)
 
 df <- as.data.frame(read.table(file = file.path("meta", "overview_HM_v2_T-ALL.txt"), sep ="\t",header=F))
