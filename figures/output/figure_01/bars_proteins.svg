@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='104.88pt' height='127.56pt' viewBox='0 0 104.88 127.56'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxMDQuODh8MC4wMHwxMjcuNTY='>
+    <rect x='0.00' y='0.00' width='104.88' height='127.56' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxMDQuODh8MC4wMHwxMjcuNTY=)'>
+</g>
+<defs>
+  <clipPath id='cpNDYuMDJ8OTYuOTF8Ny45N3w5Mi43MQ=='>
+    <rect x='46.02' y='7.97' width='50.89' height='84.74' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDYuMDJ8OTYuOTF8Ny45N3w5Mi43MQ==)'>
+<rect x='48.41' y='11.82' width='14.31' height='77.03' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #742C55;' />
+<rect x='64.31' y='32.53' width='14.31' height='56.32' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #443158;' />
+<rect x='80.21' y='33.27' width='14.31' height='55.59' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #474C64;' />
+<text x='55.56' y='23.69' text-anchor='middle' style='font-size: 11.04px; fill: #FFFFFF; font-family: Arial;' textLength='30.67px' lengthAdjust='spacingAndGlyphs'>12446</text>
+<text x='71.47' y='44.40' text-anchor='middle' style='font-size: 11.04px; fill: #FFFFFF; font-family: Arial;' textLength='24.54px' lengthAdjust='spacingAndGlyphs'>9100</text>
+<text x='87.37' y='45.14' text-anchor='middle' style='font-size: 11.04px; fill: #FFFFFF; font-family: Arial;' textLength='24.54px' lengthAdjust='spacingAndGlyphs'>8981</text>
+</g>
+<g clip-path='url(#cpMC4wMHwxMDQuODh8MC4wMHwxMjcuNTY=)'>
+<polyline points='46.02,92.71 46.02,7.97 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<text x='38.85' y='91.36' text-anchor='end' style='font-size: 7.00px; font-family: Arial;' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='38.85' y='66.60' text-anchor='end' style='font-size: 7.00px; font-family: Arial;' textLength='15.58px' lengthAdjust='spacingAndGlyphs'>4000</text>
+<text x='38.85' y='41.85' text-anchor='end' style='font-size: 7.00px; font-family: Arial;' textLength='15.58px' lengthAdjust='spacingAndGlyphs'>8000</text>
+<text x='38.85' y='17.09' text-anchor='end' style='font-size: 7.00px; font-family: Arial;' textLength='19.48px' lengthAdjust='spacingAndGlyphs'>12000</text>
+<polyline points='42.04,88.85 46.02,88.85 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='42.04,64.10 46.02,64.10 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='42.04,39.34 46.02,39.34 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='42.04,14.58 46.02,14.58 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='46.02,92.71 96.91,92.71 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='55.56,96.69 55.56,92.71 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='71.47,96.69 71.47,92.71 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<polyline points='87.37,96.69 87.37,92.71 ' style='stroke-width: 0.64; stroke-linecap: butt;' />
+<text x='55.56' y='104.89' text-anchor='middle' style='font-size: 7.00px; font-family: Arial;' textLength='42.42px' lengthAdjust='spacingAndGlyphs'>Total Proteins</text>
+<text x='71.47' y='104.89' text-anchor='middle' style='font-size: 7.00px; font-family: Arial;' textLength='27.63px' lengthAdjust='spacingAndGlyphs'>Proteins </text>
+<text x='71.47' y='112.45' text-anchor='middle' style='font-size: 7.00px; font-family: Arial;' textLength='31.13px' lengthAdjust='spacingAndGlyphs'> in all sets</text>
+<text x='87.37' y='104.89' text-anchor='middle' style='font-size: 7.00px; font-family: Arial;' textLength='26.46px' lengthAdjust='spacingAndGlyphs'>Overlap </text>
+<text x='87.37' y='112.45' text-anchor='middle' style='font-size: 7.00px; font-family: Arial;' textLength='50.57px' lengthAdjust='spacingAndGlyphs'> Proteins-mRNA</text>
+<text transform='translate(13.70,50.34) rotate(-90)' text-anchor='middle' style='font-size: 8.00px; font-family: Arial;' textLength='52.47px' lengthAdjust='spacingAndGlyphs'>Gene Symbols</text>
+</g>
+</svg>
