@@ -1,0 +1,84 @@
+cell_line	type	subtype	sample_id	cluster
+SEM median	preB	KMT2A.AFF1	Set1_tmt10plex_126	1
+REH	preB	ETV6.RUNX1	Set1_tmt10plex_127N	2
+CCRF-CEM	T-ALL	SIL.SCL	Set1_tmt10plex_127C	3
+697 (EU-3)	preB	TCF3.PBX1	Set1_tmt10plex_128N	2
+P12-ICHIKAWA	T-ALL	LMO2	Set1_tmt10plex_128C	3
+P30-OHKUBO	preB	MEF2D.HNRNPUL1	Set1_tmt10plex_129N	4
+CCRF-SB	EBV	EBV	Set1_tmt10plex_129C	5
+NALM-16	preB	BUB1B+	Set1_tmt10plex_130N	4
+MOLT-3 (sister MOLT-4)	T-ALL	CERS2+/IL32+	Set1_tmt10plex_130C	3
+KASUMI-9 Replicate 2	preB	MEF2D.HNRNPUL1	Set10_tmt10plex_127N	4
+COG-LL-319h Replicate 2	preB	TCF3.PBX1	Set10_tmt10plex_127C	2
+HPB-ALL Replicate 2	T-ALL	BCL11B.TLX3	Set10_tmt10plex_128N	3
+KARPAS-45 Replicate 2	T-ALL	KMT2A.FOXO4	Set10_tmt10plex_128C	3
+TMD5 Replicate 2	preB	BCR.ABL1	Set10_tmt10plex_129N	1
+MHH-CALL-2 Replicate 2	preB	PTMA.TMSB4X	Set10_tmt10plex_129C	4
+HAL-01 Replicate 2	preB	TCF3.HLF	Set10_tmt10plex_130N	2
+COG-LL-332h Replicate 2	T-ALL	SFPQ.ABL1	Set10_tmt10plex_130C	3
+JURKAT	T-ALL	Unknown	Set2_tmt10plex_127N	3
+KASUMI-2	preB	TCF3.PBX1	Set2_tmt10plex_127C	2
+TANOUE	B-ALL	IGH.MYC	Set2_tmt10plex_128N	6
+NALM-6	preB	ETV6.PDGFRB	Set2_tmt10plex_128C	2
+MOLT-4 (sister MOLT-3)	T-ALL	CERS2+/IL32+	Set2_tmt10plex_129N	3
+MHH-CALL-3	preB	TCF3.PBX1	Set2_tmt10plex_129C	2
+ALL-SIL	T-ALL	NUP214.ABL1	Set2_tmt10plex_130N	3
+SUP-B15	preB	BCR.ABL1	Set2_tmt10plex_130C	2
+MHH-CALL-2	preB	PTMA.TMSB4X	Set3_tmt10plex_127N	4
+MOLT-16 (sister MOLT-17)	T-ALL	TRA.MYC	Set3_tmt10plex_127C	7
+COG-LL-356h	EBV	EBV	Set3_tmt10plex_128N	5
+PEER	T-ALL	NUP214.ABL1	Set3_tmt10plex_128C	7
+LC4-1	preB	MEF2D.HNRNPUL1	Set3_tmt10plex_129N	4
+KOPN-8	preB	KMT2A.MLLT1	Set3_tmt10plex_129C	4
+PF-382	T-ALL	Hypodiploid.LMO2	Set3_tmt10plex_130N	3
+RCH-ACV	preB	TCF3.PBX1	Set3_tmt10plex_130C	2
+DND-41	T-ALL	BCL11B.TLX3	Set4_tmt10plex_127N	3
+380	preB	IGH.MYC	Set4_tmt10plex_127C	1
+HAL-01	preB	TCF3.HLF	Set4_tmt10plex_128N	2
+TMD5	preB	BCR.ABL1	Set4_tmt10plex_128C	1
+COG-LL-317*	T-ALL	TRA.MYC	Set4_tmt10plex_129N	3
+MOLT-13 (Sister MOLT-14)	T-ALL	LMO2.STAG2	Set4_tmt10plex_129C	3
+TANOUE Replicate 2	B-ALL	IGH.MYC	Set4_tmt10plex_130N	6
+SEM Replicate 2 Lotte	preB	KMT2A.AFF1	Set4_tmt10plex_130C	1
+HPB-ALL	T-ALL	BCL11B.TLX3	Set5_tmt10plex_127N	3
+MN-60	B-ALL	IGH.MYC	Set5_tmt10plex_127C	6
+COG-LL-319h	preB	TCF3.PBX1	Set5_tmt10plex_128N	2
+COG-LL-332h	T-ALL	SFPQ.ABL1	Set5_tmt10plex_128C	3
+RPMI-8402	T-ALL	LMO1.TCRD	Set5_tmt10plex_129N	3
+MHH-CALL-4	preB	IGH.CRLF2	Set5_tmt10plex_129C	1
+CCRF-SB Replicate 2	EBV	EBV	Set5_tmt10plex_130N	5
+SEM Replicate 2 noPS	preB	KMT2A.AFF1	Set5_tmt10plex_130C	NA
+NALL-1	preB	PAX5.ETV6	Set6_tmt10plex_127N	1
+ALL-PO	preB	KMT2A.AFF1	Set6_tmt10plex_127C	1
+KARPAS-45	T-ALL	KMT2A.FOXO4	Set6_tmt10plex_128N	3
+KASUMI-9	preB	MEF2D.HNRNPUL1	Set6_tmt10plex_128C	4
+A3 (Jurkat derivative)	T-ALL	Unknown	Set6_tmt10plex_129N	3
+COG-LL-355h	preB	ETV6.RUNX1	Set6_tmt10plex_129C	1
+TALL-104	T-ALL	NUP214.ABL1	Set6_tmt10plex_130N	7
+REH Replicate 2	preB	ETV6.RUNX1	Set6_tmt10plex_130C	2
+BE-13 (PEER Derv)	T-ALL	NUP214.ABL1	Set7_tmt10plex_127N	7
+KOPN-8  Replicate 2	preB	KMT2A.MLLT1	Set7_tmt10plex_127C	4
+MOLT-14 (Sister MOLT-13)	T-ALL	LMO2.STAG2	Set7_tmt10plex_128N	3
+COG-LL-356h  Replicate 2	EBV	EBV	Set7_tmt10plex_128C	5
+MOLT-17 (Sister MOLT-16)	T-ALL	TRA.MYC	Set7_tmt10plex_129N	7
+RCH-ACV  Replicate 2	preB	TCF3.PBX1	Set7_tmt10plex_129C	2
+CCRF-HSB2 (SB Derv)	T-ALL	TRB.LCK	Set7_tmt10plex_130N	7
+KASUMI-10	preB	KMT2A.MLLT1	Set7_tmt10plex_130C	1
+COG-LL-402h	preB	TCF3.PBX1	Set8_tmt10plex_126	2
+MN-60 Replicate 2	B-ALL	IGH.MYC	Set8_tmt10plex_127N	6
+ALL-SIL Replicate 2	T-ALL	NUP214.ABL1	Set8_tmt10plex_127C	3
+KASUMI-2 Replicate 2	preB	TCF3.PBX1	Set8_tmt10plex_128N	2
+P30-OHKUBO Replicate 2	preB	MEF2D.HNRNPUL1	Set8_tmt10plex_128C	4
+CCRF-CEM Replicate 2	T-ALL	SIL.SCL	Set8_tmt10plex_129N	3
+PF-382 Replicate 2	T-ALL	Hypodiploid.LMO2	Set8_tmt10plex_129C	3
+NALL-1 Replicate 2	preB	PAX5.ETV6	Set8_tmt10plex_130N	1
+COG-LL-355h Replicate 2	preB	ETV6.RUNX1	Set8_tmt10plex_130C	1
+COG-LL-394h	preB	ABL1.ZMIZ1	Set9_tmt10plex_126	1
+697 (EU-3) Replicate 2	preB	TCF3.PBX1	Set9_tmt10plex_127N	2
+PEER Replicate 2	T-ALL	NUP214.ABL1	Set9_tmt10plex_127C	7
+ALL-PO Replicate 2	preB	KMT2A.AFF1	Set9_tmt10plex_128N	1
+MHH-CALL-4 Replicate 2	preB	IGH.CRLF2	Set9_tmt10plex_128C	1
+P12-ICHIKAWA Replicate 2	T-ALL	LMO2	Set9_tmt10plex_129N	3
+DND-41 Replicate 2	T-ALL	BCL11B.TLX3	Set9_tmt10plex_129C	3
+LC4-1 Replicate 2	preB	MEF2D.HNRNPUL1	Set9_tmt10plex_130N	4
+SUP-B15 Replicate 2	preB	BCR.ABL1	Set9_tmt10plex_130C	2
