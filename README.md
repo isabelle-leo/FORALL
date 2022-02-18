@@ -1,6 +1,7 @@
 # FORALL
 
-Guidelines for the R project
+#Guidelines for the R project
+
 Data and analysis results are stored in ExpressionSet objects, figures and tables.
 
 The proteins eSet is generated in init.R.
@@ -20,7 +21,7 @@ Publication-ready figure components are stored in output/figures.
 
 Sample data objects are provided in the repository for illustration and convenience, these files may not be complete
 
-To run the workflow
+#To run the workflow
 
 
 Copy raw data to ./data, e.g. symbols_table.txt (Nextflow output).
