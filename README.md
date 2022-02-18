@@ -21,6 +21,8 @@ Publication-ready figure components are stored in output/figures.
 Sample data objects are provided in the repository for illustration and convenience, these files may not be complete
 
 To run the workflow
+
+
 Copy raw data to ./data, e.g. symbols_table.txt (Nextflow output).
 
 
