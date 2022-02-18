@@ -27,7 +27,7 @@ outputFolder <- file.path("output", useVersion, "de")
 colorScheme  <- getColorScheme()
 
 
-# create maijor output folder, if it doesn't exist
+# create major output folder, if it doesn't exist
 if (!is.null(outputFolder) && !dir.exists(outputFolder)) dir.create(outputFolder)
 
 
