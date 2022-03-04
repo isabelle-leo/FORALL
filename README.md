@@ -19,7 +19,7 @@ Publication-ready figure components are stored in output/figures.
 
 
 
-Sample data objects are provided in the repository for illustration and convenience, these files may not be complete
+Sample data objects are provided in the repository for illustration and convenience, these files may not be complete. All raw data and processed data tables are provided in our publication (DOI: )
 
 #To run the workflow
 
