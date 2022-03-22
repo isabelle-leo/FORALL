@@ -1,0 +1,240 @@
+CellType	DrugType	Replicate	Count	SubType	ExperimentDate	
+KAS9	DMSO	1	2909	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	DMSO	2	2778	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	DMSO	3	3351	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	100nM Bryostatin-1	1	112	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	100nM Bryostatin-1	2	190	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	100nM Bryostatin-1	3	115	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	25nM PMA	1	194	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	25nM PMA	2	146	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	25nM PMA	3	155	Mef2d.Hnrnpul1	Feb22nd	
+KAS9	DMSO	1	2524	Mef2d.Hnrnpul1	Feb26th	
+KAS9	DMSO	2	2587	Mef2d.Hnrnpul1	Feb26th	
+KAS9	DMSO	3	1909	Mef2d.Hnrnpul1	Feb26th	
+KAS9	100nM Bryostatin-1	1	1069	Mef2d.Hnrnpul1	Feb26th	
+KAS9	100nM Bryostatin-1	2	807	Mef2d.Hnrnpul1	Feb26th	
+KAS9	100nM Bryostatin-1	3	768	Mef2d.Hnrnpul1	Feb26th	
+KAS9	25nM PMA	1	598	Mef2d.Hnrnpul1	Feb26th	
+KAS9	25nM PMA	2	621	Mef2d.Hnrnpul1	Feb26th	
+KAS9	25nM PMA	3	692	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	DMSO	1	4048	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	DMSO	2	4002	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	DMSO	3	4237	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	100nM Bryostatin-1	1	1012	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	100nM Bryostatin-1	2	1025	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	100nM Bryostatin-1	3	995	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	25nM PMA	1	402	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	25nM PMA	2	432	Mef2d.Hnrnpul1	Feb26th	
+P30-OKHUBO	25nM PMA	3	341	Mef2d.Hnrnpul1	Feb26th	
+LC41	DMSO	1	1624	Mef2d.Hnrnpul1	Feb26th	
+LC41	DMSO	2	1588	Mef2d.Hnrnpul1	Feb26th	
+LC41	DMSO	3	2030	Mef2d.Hnrnpul1	Feb26th	
+LC41	100nM Bryostatin-1	1	430	Mef2d.Hnrnpul1	Feb26th	
+LC41	100nM Bryostatin-1	2	358	Mef2d.Hnrnpul1	Feb26th	
+LC41	100nM Bryostatin-1	3	496	Mef2d.Hnrnpul1	Feb26th	
+LC41	25nM PMA	1	469	Mef2d.Hnrnpul1	Feb26th	
+LC41	25nM PMA	2	378	Mef2d.Hnrnpul1	Feb26th	
+LC41	25nM PMA	3	479	Mef2d.Hnrnpul1	Feb26th	
+KAS7	DMSO	1	3372	Mef2d.Hnrnpul1	Feb26th	
+KAS7	DMSO	2	2640	Mef2d.Hnrnpul1	Feb26th	
+KAS7	DMSO	3	2929	Mef2d.Hnrnpul1	Feb26th	
+KAS7	100nM Bryostatin-1	1	909	Mef2d.Hnrnpul1	Feb26th	
+KAS7	100nM Bryostatin-1	2	1123	Mef2d.Hnrnpul1	Feb26th	
+KAS7	100nM Bryostatin-1	3	1109	Mef2d.Hnrnpul1	Feb26th	
+KAS7	25nM PMA	1	52	Mef2d.Hnrnpul1	Feb26th	
+KAS7	25nM PMA	2	96	Mef2d.Hnrnpul1	Feb26th	
+KAS7	25nM PMA	3	99	Mef2d.Hnrnpul1	Feb26th	
+LC41	DMSO	1	4473	Mef2d.Hnrnpul1	Mar5th	
+LC41	DMSO	2	4432	Mef2d.Hnrnpul1	Mar5th	
+LC41	DMSO	3	5599	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	1	1010	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	2	1080	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	3	1261	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	1	554	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	2	604	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	3	261	Mef2d.Hnrnpul1	Mar5th	
+KAS9	DMSO	1	1389	Mef2d.Hnrnpul1	Mar5th	
+KAS9	DMSO	2	1465	Mef2d.Hnrnpul1	Mar5th	
+KAS9	DMSO	3	1330	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	1	232	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	2	156	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	3	205	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	1	101	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	2	136	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	3	130	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	1	4534	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	2	3709	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	3	4191	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	1	1055	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	2	583	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	3	657	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	1	47	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	2	62	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	3	30	Mef2d.Hnrnpul1	Mar5th	
+SUPB15	DMSO	1	1387	Other	Mar5th	
+SUPB15	DMSO	2	1458	Other	Mar5th	
+SUPB15	DMSO	3	1371	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	1	1108	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	2	831	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	3	961	Other	Mar5th	
+SUPB15	25nM PMA	1	164	Other	Mar5th	
+SUPB15	25nM PMA	2	251	Other	Mar5th	
+SUPB15	25nM PMA	3	231	Other	Mar5th	
+MHHCALL2	DMSO	1	1709	Other	Mar5th	
+MHHCALL2	DMSO	2	1428	Other	Mar5th	
+MHHCALL2	DMSO	3	1724	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	1	1056	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	2	1113	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	3	939	Other	Mar5th	
+MHHCALL2	25nM PMA	1	572	Other	Mar5th	
+MHHCALL2	25nM PMA	2	3*	Other	Mar5th	
+MHHCALL2	25nM PMA	3	657	Other	Mar5th	
+P30-OKHUBO	DMSO	3	1727	Mef2d.Hnrnpul1	Dec1st	
+KAS9	DMSO	1	1531	Mef2d.Hnrnpul1	Dec1st	
+LC41	DMSO	1	1445	Mef2d.Hnrnpul1	Dec1st	
+KAS9	DMSO	2	1344	Mef2d.Hnrnpul1	Dec1st	
+KAS9	DMSO	3	1246	Mef2d.Hnrnpul1	Dec1st	
+LC41	DMSO	2	941	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	DMSO	1	816	Mef2d.Hnrnpul1	Dec1st	
+LC41	DMSO	3	749	Mef2d.Hnrnpul1	Dec1st	
+KAS7	DMSO	1	648	Mef2d.Hnrnpul1	Dec1st	
+KAS7	DMSO	2	580	Mef2d.Hnrnpul1	Dec1st	
+KAS7	DMSO	3	549	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	DMSO	2	538	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	BRYO	2	100	Mef2d.Hnrnpul1	Dec1st	
+LC41	BRYO	2	50	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	BRYO	1	44	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	PMA	1	41	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	PMA	2	28	Mef2d.Hnrnpul1	Dec1st	
+LC41	BRYO	1	26	Mef2d.Hnrnpul1	Dec1st	
+P30	PMA	3	24	Mef2d.Hnrnpul1	Dec1st	
+LC41	BRYO	3	21	Mef2d.Hnrnpul1	Dec1st	
+P30-OKHUBO	BRYO	3	17	Mef2d.Hnrnpul1	Dec1st	
+LC41	PMA	1	14	Mef2d.Hnrnpul1	Dec1st	
+KAS9	PMA	1	11	Mef2d.Hnrnpul1	Dec1st	
+LC41	PMA	3	8	Mef2d.Hnrnpul1	Dec1st	
+KAS9	BRYO	2	7	Mef2d.Hnrnpul1	Dec1st	
+LC41	PMA	2	7	Mef2d.Hnrnpul1	Dec1st	
+KAS7	BRYO	1	6	Mef2d.Hnrnpul1	Dec1st	
+KAS7	BRYO	2	6	Mef2d.Hnrnpul1	Dec1st	
+KAS7	BRYO	3	6	Mef2d.Hnrnpul1	Dec1st	
+KAS9	BRYO	1	3	Mef2d.Hnrnpul1	Dec1st	
+KAS9	BRYO	3	3	Mef2d.Hnrnpul1	Dec1st	
+KAS9	PMA	3	2	Mef2d.Hnrnpul1	Dec1st	
+KAS7	PMA	2	2	Mef2d.Hnrnpul1	Dec1st	
+KAS9	PMA	2	1	Mef2d.Hnrnpul1	Dec1st	
+KAS7	PMA	1	1	Mef2d.Hnrnpul1	Dec1st	
+KAS7	PMA	3	1	Mef2d.Hnrnpul1	Dec1st	
+REH	DMSO	1	9373	Other	Dec1st	
+REH	BRYO	3	8614	Other	Dec1st	
+REH	BRYO	2	8394	Other	Dec1st	
+REH	DMSO	3	7667	Other	Dec1st	
+REH	BRYO	1	7411	Other	Dec1st	
+REH	DMSO	2	6611	Other	Dec1st	
+ALLPO	DMSO	2	3949	Other	Dec1st	
+ALLPO	DMSO	3	3915	Other	Dec1st	
+ALLPO	DMSO	1	3841	Other	Dec1st	
+ALLPO	BRYO	2	3576	Other	Dec1st	
+ALLPO	BRYO	3	3553	Other	Dec1st	
+ALLPO	BRYO	1	3132	Other	Dec1st	
+ALLPO	PMA	3	2663	Other	Dec1st	
+ALLPO	PMA	2	2656	Other	Dec1st	
+ALLPO	PMA	1	2289	Other	Dec1st	
+COG355	PMA	1	2254	Other	Dec1st	
+COG394	DMSO	3	2179	Other	Dec1st	
+COG355	BRYO	2	2133	Other	Dec1st	
+COG355	BRYO	1	2038	Other	Dec1st	
+COG355	DMSO	2	1991	Other	Dec1st	
+COG394	DMSO	2	1941	Other	Dec1st	
+COG355	PMA	2	1853	Other	Dec1st	
+COG355	DMSO	1	1844	Other	Dec1st	
+COG355	PMA	3	1778	Other	Dec1st	
+COG355	BRYO	3	1719	Other	Dec1st	
+REH	PMA	1	1571	Other	Dec1st	
+COG394	DMSO	1	1559	Other	Dec1st	
+COG394	PMA	2	1452	Other	Dec1st	
+REH	PMA	3	1382	Other	Dec1st	
+COG394	PMA	3	1331	Other	Dec1st	
+COG394	PMA	1	1139	Other	Dec1st	
+REH	PMA	2	911	Other	Dec1st	
+REH	DMSO	1	7505	Other	Mar5th	
+REH	DMSO	2	7624	Other	Mar5th	
+REH	DMSO	3	7833	Other	Mar5th	
+REH	100nM Bryostatin-1	1	9038	Other	Mar5th	
+REH	100nM Bryostatin-1	2	8336	Other	Mar5th	
+REH	100nM Bryostatin-1	3	8856	Other	Mar5th	
+REH	25nM PMA	1	781	Other	Mar5th	
+REH	25nM PMA	2	705	Other	Mar5th	
+REH	25nM PMA	3	905	Other	Mar5th	
+RCHACV	DMSO	1	1820	Other	Mar5th	
+RCHACV	DMSO	2	1828	Other	Mar5th	
+RCHACV	DMSO	3	1424	Other	Mar5th	
+RCHACV	100nM Bryostatin-1	1	2098	Other	Mar5th	
+RCHACV	100nM Bryostatin-1	2	1842	Other	Mar5th	
+RCHACV	100nM Bryostatin-1	3	2667	Other	Mar5th	
+RCHACV	25nM PMA	1	1294	Other	Mar5th	
+RCHACV	25nM PMA	2	890	Other	Mar5th	
+RCHACV	25nM PMA	3	995	Other	Mar5th	
+MHHCALL2	DMSO	1	1265	Other	Mar5th	
+MHHCALL2	DMSO	2	1010	Other	Mar5th	
+MHHCALL2	DMSO	3	1098	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	1	1303	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	2	1059	Other	Mar5th	
+MHHCALL2	100nM Bryostatin-1	3	1139	Other	Mar5th	
+MHHCALL2	25nM PMA	1	550	Other	Mar5th	
+MHHCALL2	25nM PMA	2	442	Other	Mar5th	
+MHHCALL2	25nM PMA	3	434	Other	Mar5th	
+ALLPO	DMSO	1	1773	Other	Mar5th	
+ALLPO	DMSO	2	1506	Other	Mar5th	
+ALLPO	DMSO	3	1870	Other	Mar5th	
+ALLPO	100nM Bryostatin-1	1	2241	Other	Mar5th	
+ALLPO	100nM Bryostatin-1	2	2307	Other	Mar5th	
+ALLPO	100nM Bryostatin-1	3	2199	Other	Mar5th	
+ALLPO	25nM PMA	1	1400	Other	Mar5th	
+ALLPO	25nM PMA	2	1360	Other	Mar5th	
+ALLPO	25nM PMA	3	1146	Other	Mar5th	
+SUPB15	DMSO	1	998	Other	Mar5th	
+SUPB15	DMSO	2	849	Other	Mar5th	
+SUPB15	DMSO	3	1029	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	1	759	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	2	655	Other	Mar5th	
+SUPB15	100nM Bryostatin-1	3	624	Other	Mar5th	
+SUPB15	25nM PMA	1	291	Other	Mar5th	
+SUPB15	25nM PMA	2	265	Other	Mar5th	
+SUPB15	25nM PMA	3	214	Other	Mar5th	
+NALM6	DMSO	1	4830	Other	Mar5th	
+NALM6	DMSO	2	5267	Other	Mar5th	
+NALM6	DMSO	3	5489	Other	Mar5th	
+NALM6	100nM Bryostatin-1	1	6241	Other	Mar5th	
+NALM6	100nM Bryostatin-1	2	6901	Other	Mar5th	
+NALM6	100nM Bryostatin-1	3	7127	Other	Mar5th	
+NALM6	25nM PMA	1	4670	Other	Mar5th	
+NALM6	25nM PMA	2	4160	Other	Mar5th	
+NALM6	25nM PMA	3	4771	Other	Mar5th	
+KAS9	DMSO	1	805	Mef2d.Hnrnpul1	Mar5th	
+KAS9	DMSO	2	535	Mef2d.Hnrnpul1	Mar5th	
+KAS9	DMSO	3	326	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	1	54	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	2	52	Mef2d.Hnrnpul1	Mar5th	
+KAS9	100nM Bryostatin-1	3	37	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	1	189	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	2	31	Mef2d.Hnrnpul1	Mar5th	
+KAS9	25nM PMA	3	44	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	1	6086	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	2	5462	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	DMSO	3	5136	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	1	1554	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	2	1411	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	100nM Bryostatin-1	3	1254	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	1	167	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	2	119	Mef2d.Hnrnpul1	Mar5th	
+P30-OKHUBO	25nM PMA	3	160	Mef2d.Hnrnpul1	Mar5th	
+LC41	DMSO	1	3244	Mef2d.Hnrnpul1	Mar5th	
+LC41	DMSO	2	3057	Mef2d.Hnrnpul1	Mar5th	
+LC41	DMSO	3	2520	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	1	511	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	2	439	Mef2d.Hnrnpul1	Mar5th	
+LC41	100nM Bryostatin-1	3	359	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	1	75	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	2	84	Mef2d.Hnrnpul1	Mar5th	
+LC41	25nM PMA	3	91	Mef2d.Hnrnpul1	Mar5th	
