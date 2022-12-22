@@ -24,9 +24,9 @@ name                  <- "[Initialisation] "
 version               <- "publication"
 outputFolder          <- file.path("output", version)
 
-proteinsFileName      <- file.path("data", "12683_STD_ALL_Cell_Line_Panel_Set1-10_BothIPG_Nextflow_ENS99_2020-05-16", "symbols_table.txt")
-peptidesFileName      <- file.path("data", "12683_STD_ALL_Cell_Line_Panel_Set1-10_BothIPG_Nextflow_ENS99_2020-05-16", "peptides_table.txt")
-metaFileName          <- "meta/ALL cell lines Scilife_CCK_CMB_2020-12-10.xlsx"
+proteinsFileName      <- file.path("data", "12683_STD_ALL_Cell_Line_Panel_Set1-10_BothIPG_Nextflow_ENS99_2020-05-16", "symbols_table.txt") #NOTE: Obtained from NextFlow pipeline, tidy version is available in Supplementary Data 3
+peptidesFileName      <- file.path("data", "12683_STD_ALL_Cell_Line_Panel_Set1-10_BothIPG_Nextflow_ENS99_2020-05-16", "peptides_table.txt") #NOTE: Obtained from NextFlow pipeline
+metaFileName          <- "meta/ALL cell lines Scilife_CCK_CMB_2020-12-10.xlsx" #NOTE: in the paper, can be obtained from Supplementary Data 1
 metaSheetName         <- "Commercial ALL cell lines"
 subcellLocFile        <- file.path("meta", "SCInfo.txt")
 geneAnnotationFolder  <- file.path("meta", "gene_annotation")
